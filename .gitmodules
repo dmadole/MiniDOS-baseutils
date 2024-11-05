@@ -43,3 +43,6 @@
 [submodule "trim"]
 	path = trim
 	url = https://github.com/dmadole/MiniDOS-trim
+[submodule "mkdir"]
+	path = mkdir
+	url = https://github.com/dmadole/MiniDOS-mkdir
