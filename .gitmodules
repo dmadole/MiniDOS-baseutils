@@ -25,3 +25,6 @@
 [submodule "label"]
 	path = label
 	url = https://github.com/dmadole/MiniDOS-label
+[submodule "dir"]
+	path = dir
+	url = https://github.com/dmadole/MiniDOS-dir
