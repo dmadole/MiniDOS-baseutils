@@ -13,3 +13,6 @@
 [submodule "chmod"]
 	path = chmod
 	url = https://github.com/dmadole/MiniDOS-chmod
+[submodule "crc"]
+	path = crc
+	url = https://github.com/dmadole/MiniDOS-crc
