@@ -37,3 +37,6 @@
 [submodule "format"]
 	path = format
 	url = https://github.com/dmadole/MiniDOS-format
+[submodule "sys"]
+	path = sys
+	url = https://github.com/dmadole/MiniDOS-sys
