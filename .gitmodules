@@ -10,3 +10,6 @@
 [submodule "include"]
 	path = include
 	url = https://github.com/dmadole/MiniDOS-include
+[submodule "chmod"]
+	path = chmod
+	url = https://github.com/dmadole/MiniDOS-chmod
