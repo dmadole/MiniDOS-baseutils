@@ -1,0 +1,12 @@
+[submodule "clone"]
+	path = clone
+	url = https://github.com/dmadole/MiniDOS-clone
+[submodule "chdir"]
+	path = chdir
+	url = https://github.com/dmadole/MiniDOS-chdir
+[submodule "reboot"]
+	path = reboot
+	url = https://github.com/dmadole/MiniDOS-reboot
+[submodule "include"]
+	path = include
+	url = https://github.com/dmadole/MiniDOS-include
