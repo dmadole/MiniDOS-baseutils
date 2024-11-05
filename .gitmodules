@@ -31,3 +31,9 @@
 [submodule "copy"]
 	path = copy
 	url = https://github.com/dmadole/MiniDOS-copy
+[submodule "del"]
+	path = del
+	url = https://github.com/dmadole/MiniDOS-del
+[submodule "format"]
+	path = format
+	url = https://github.com/dmadole/MiniDOS-format
