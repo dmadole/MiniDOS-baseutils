@@ -22,3 +22,6 @@
 [submodule "free"]
 	path = free
 	url = https://github.com/dmadole/MiniDOS-free
+[submodule "label"]
+	path = label
+	url = https://github.com/dmadole/MiniDOS-label
