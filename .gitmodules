@@ -40,3 +40,6 @@
 [submodule "sys"]
 	path = sys
 	url = https://github.com/dmadole/MiniDOS-sys
+[submodule "trim"]
+	path = trim
+	url = https://github.com/dmadole/MiniDOS-trim
