@@ -16,3 +16,9 @@
 [submodule "crc"]
 	path = crc
 	url = https://github.com/dmadole/MiniDOS-crc
+[submodule "date"]
+	path = date
+	url = https://github.com/dmadole/MiniDOS-date
+[submodule "free"]
+	path = free
+	url = https://github.com/dmadole/MiniDOS-free
