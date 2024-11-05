@@ -46,3 +46,6 @@
 [submodule "mkdir"]
 	path = mkdir
 	url = https://github.com/dmadole/MiniDOS-mkdir
+[submodule "rmdir"]
+	path = rmdir
+	url = https://github.com/dmadole/MiniDOS-rmdir
