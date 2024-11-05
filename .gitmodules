@@ -28,3 +28,6 @@
 [submodule "dir"]
 	path = dir
 	url = https://github.com/dmadole/MiniDOS-dir
+[submodule "copy"]
+	path = copy
+	url = https://github.com/dmadole/MiniDOS-copy
