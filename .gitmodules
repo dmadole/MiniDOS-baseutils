@@ -52,3 +52,6 @@
 [submodule "xr"]
 	path = xr
 	url = https://github.com/dmadole/MiniDOS-xr
+[submodule "sedit"]
+	path = sedit
+	url = https://github.com/dmadole/MiniDOS-sedit
