@@ -1,7 +1,6 @@
 
 DIRS=$(dir $(wildcard */makefile))
 
-INCS=$(join $(DIRS),$(patsubst %/,include,$(DIRS)))
 BINS=$(join $(DIRS),$(patsubst %/,%.bin,$(DIRS)))
 LBRS=$(join $(DIRS),$(patsubst %/,%.lbr,$(DIRS)))
 
