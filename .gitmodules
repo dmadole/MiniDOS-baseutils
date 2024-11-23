@@ -55,3 +55,6 @@
 [submodule "sedit"]
 	path = sedit
 	url = https://github.com/dmadole/MiniDOS-sedit
+[submodule "rename"]
+	path = rename
+	url = https://github.com/dmadole/MiniDOS-rename
