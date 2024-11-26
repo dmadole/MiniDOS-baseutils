@@ -58,3 +58,6 @@
 [submodule "rename"]
 	path = rename
 	url = https://github.com/dmadole/MiniDOS-rename
+[submodule "xs"]
+	path = xs
+	url = https://github.com/dmadole/MiniDOS-xs
