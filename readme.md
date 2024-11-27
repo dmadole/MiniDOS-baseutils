@@ -17,10 +17,11 @@ Once you have the package and submodules, to build all the binaries:
 make
 ```
 Or, to build an lbr of all the binaries:
-```
-make lbr
-```
+
 > [!NOTE]
 > Makeing an lbr require the lbradd script to be installed, see https://github.com/dmadole/lbradd
 
+```
+make lbr
+```
 Note that commits of the baseutils package are linked to specific commits of submodules, so even as the submodule repositories are updated, a pull of a specific baseutils commit (or tag) will always build the same set of binaries and lbr. In this way, baseutils can have it's own specific consistent releases even as the individual utilies are moving targets.
